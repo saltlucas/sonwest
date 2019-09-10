@@ -2,8 +2,7 @@
 var mongoose = require('mongoose');
 var objectId = require('mongodb').ObjectId;
 
-const accountSid = 'AC615ca7ec3161530aaacf2067321b221e';
-const authToken = 'f619ba80b86de844a5b630ba872e0cba';
+
 const client = require('twilio')(accountSid, authToken);
 const surveyLink = 'http://bit.ly/ImperialArmsSurvey';
 
