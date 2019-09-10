@@ -1,4 +1,4 @@
-# Send SMS Survey to Clients
+# Send Survey or Message to Customers
 
 This was built for a client to send survey over SMS to clients who has left their business, and log those messages.  It was built using a React client and an Express Restful API.  
 
